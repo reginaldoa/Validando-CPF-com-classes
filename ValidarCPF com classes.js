@@ -1,5 +1,3 @@
-//705.484.450-52   070.987.720-03 443.607.518-42
-
 class CPF{
     constructor(cpfenviado){
         this.cpfenviado = cpfenviado;
